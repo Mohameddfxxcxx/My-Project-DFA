@@ -1,0 +1,3 @@
+pip install flask
+python -m dfa_visualizer.app
+python -m unittest discover dfa_visualizer/tests
